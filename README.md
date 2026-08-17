@@ -1,21 +1,34 @@
-Hi, I'm Sarang Sindhu 👋
+👋 Hi, I'm Sarang Sindhu
 
-Senior Software Engineer specializing in .NET development.
+Senior Software Engineer | .NET Developer
 
-💻 Tech Stack
-C# | .NET | ASP.NET Core | SQL Server
-JavaScript | TypeScript | HTML | CSS | Azure
+ABOUT ME
+Short professional introduction
 
-🚀 Featured Projects
+TECH STACK
+C# | .NET | ASP.NET Core
+SQL Server | JavaScript | TypeScript
+HTML | CSS | Azure
 
-• Accenture
-  Email Marketing & Event Invitation Management System
+FEATURED PROJECTS
 
-• BShop
-  Modern E-Commerce Platform
+🚀 Accenture
+Email Marketing & Event Invitation Management System
+→ View Project
 
-• MoreInline
-  Freelance Marketplace Platform
+🚀 BShop
+Modern E-Commerce Platform
+→ View Project
 
-• POS_System
-  Point of Sale & Business Management System
+🚀 MoreInline
+Freelance Marketplace Platform
+→ View Project
+
+🚀 POS System
+Point of Sale & Business Management System
+→ View Project
+
+CONTACT
+🔗 [LinkedIn](https://www.linkedin.com/in/sarang-shaikh-4b5948194)  
+📧 [Gmail](mailto:sarang.sindhoo@gmail.com)  
+💬 [WhatsApp](https://wa.me/923323397721)
